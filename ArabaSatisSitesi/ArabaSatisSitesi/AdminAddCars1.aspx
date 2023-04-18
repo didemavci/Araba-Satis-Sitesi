@@ -48,7 +48,7 @@
                 <br />
                 <strong>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-               <a href="ApproveCars3.aspx"?carid="<%# Eval("ArabaID") %>"> <div class="btn btn-danger">Onayla</div></a>
+               <a href="ApproveCars3.aspx"?carid="<%# Eval("ArabaID") %>"> <div class="btn btn-primary"</div></a>
                 <br />
                 <br />
                 <br />
